@@ -1,4 +1,4 @@
-ZedTek Open Work License
+ZedTek Open Work License v1
 (c) 2021 ZedTek
 
 Attached work is attributed to: (author name)
@@ -34,6 +34,34 @@ iii. Any work can be attached to this license, without required consent from Zed
   
 iv. Any work attached to this license that is original, must be redistributed with the same license text
   iva. Any derivative works with significant modifications must have the following line added to the license header: 'Work modified by: (name of second author)'.
+    iva-i. Any derivative works that derive from a work that is a derivative of another work, the addition to the license header should not be replaced. Instead, add another line below with the following text: 'Work modified by: (third, fourth, fifth author, etc)`.
+      iva-ia. This should be done for every derivative level. See example 1 below.
   ivb. Any derivative works that have little to no modification, must have the following line added to the license header: 'Non-modified derivative work by: (name of derivative owner)'.
 
+END OF LICENSE TERMS
+
+---
+Example 1
+---
+
+If the work is a derivative of the original work, the header might look like this:
+
+|  Attached work is attributed to: (author name)
+|
+|  License was applied by (name), with authorization from the original author.
+|
+|  Work modified by: (second author)
+
+However if the work is a derivative of a derivative, then the header might look like this:
+
+|  Attached work is attributed to: (author name)
+|
+|  License was applied by (name), with authorization from the original author.
+|
+|  Work modified by: (second author)
+|  Work modified by: (third author)
+
+Keep adding lines, as new contributors pick up the work. The names should be in chronological order, so be sure to add new contributors to the bottom.
+
+If multiple people are working on a specific derivative at one time, their names should be on the same line. DO NOT make new header lines for individuals within a group.
 
