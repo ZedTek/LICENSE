@@ -8,6 +8,8 @@ License was applied by (name), with authorization from the original author.
 Work modified by: (see section iv to see what to do with this field.)
 
 -----
+This license is made freely availible by ZedTek for use by the general public. You can feel free to add verbatim copies of this license agreement to any of your projects, provided that the license terms are unmodified. The header may be modified to fit the appropriate part(y/ies).
+
 This license applies to any work, written, typed, software in plain or binary form, that this license may be attached to, at the discretion of the author of said work.
 -----
 
